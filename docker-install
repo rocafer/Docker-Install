@@ -1,0 +1,4 @@
+sudo dpkg -i ./cio.deb
+sudo dpkg -i ./dce.deb \dcecli.deb
+sudo dpkg -i ./dbp.deb
+sudo dpkg -i ./dcp.deb
